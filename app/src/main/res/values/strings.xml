@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="image_flag">image flag</string>
+    <string name="check">Check</string>
+    <string name="next">NEXT</string>
+    <string name="finish">FINISH</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="image">image</string>
+    <string name="result">Result</string>
+</resources>
